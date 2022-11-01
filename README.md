@@ -7,5 +7,6 @@ If you want to see it live, check out my personal portflio at :
   
   
     
-      
-  ![Naavbar00Pic](https://user-images.githubusercontent.com/71343777/199238544-6893b2b3-9806-4bc8-9995-effa31082f0a.png)
+    
+    
+![Naavbar00Pic](https://user-images.githubusercontent.com/71343777/199238899-13d86b5d-859f-4e98-91d9-e79cf36d4a43.png)
